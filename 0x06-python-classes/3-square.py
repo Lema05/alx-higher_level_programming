@@ -28,4 +28,3 @@ class Square:
             thee size squared.
         """
         return self.__size ** 2
-
